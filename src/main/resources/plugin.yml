@@ -1,0 +1,7 @@
+name: CustomChat
+version: '${project.version}'
+main: com.transcendence.customchat.CustomChat
+commands:
+  customchat:
+    usage: /customchat
+    aliases: [cc]

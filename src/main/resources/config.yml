@@ -1,0 +1,5 @@
+chat:
+  format:
+    founder: '[PREFIX][USERNAME]&8: &c[MESSAGE]'
+    admin: '[PREFIX][USERNAME]&8: &6[MESSAGE]'
+    default: '[PREFIX][USERNAME]&8: &7[MESSAGE]'
